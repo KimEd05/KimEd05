@@ -1,5 +1,5 @@
 <div align="center">
-<h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/KimEd05/KimEd05/blob/master/gifs/Hi.gif" width="30px"></h1>
+<h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 </div>
 
 <div align="center" width="50">
@@ -13,11 +13,13 @@
 <div align="center">
 </br>
 
+
 **Happy Coding! 😊**
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=KimEd05&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="KimEd05's Github Stats">
-
+</br>
+</br>
 
 ![KimEd05's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimEd05&theme=tokyonight&layout=compact)
 
